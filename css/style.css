@@ -10,8 +10,10 @@ html {
 
 .main__container {
 
-    width: 80vh;
+    width: 80vw;
     height: 400px;
+    max-width: 500px;
+    min-width: 320px;
     border: 2px solid;
     border-color: blue;
     border-radius: 10px;
