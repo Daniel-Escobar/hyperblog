@@ -8,6 +8,15 @@ html {
     font-size: 62.5%;
 }
 
+.main__container-cabecera h1{
+    padding-top: 25px;
+    color: blue;
+}
+
+.main__container-cabecera p{
+    padding-top: 10px;
+}
+
 .main__container {
 
     width: 80vw;
