@@ -2,3 +2,4 @@ Esta es mi historia como desarrollador fullstack aprendiendo git and github con 
 Tengo 27 años, vivo en ecuador quito y trabajo de desarrollador web, estratega de marketing y venta de terrenos. 
 
 Mi meta es lograr vender terrenos de manera constante utilizando la tecnologia actual.
+Archivos modificados por Juan Fonseca
